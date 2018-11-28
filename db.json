@@ -1,0 +1,18 @@
+[
+    {
+      bookName: 'PHP',
+      author: 'FAirsz'
+    },
+    {
+      bookName: 'JAVA',
+      author: 'Billan'
+    },
+    {
+    bookName: 'MYSQL',
+    author: 'Riyash'
+    },
+    {
+      bookName: 'Pythan',
+      author: 'Tejavan'      
+    }
+  ]
